@@ -4,7 +4,7 @@
 
 ## 安装方法
 
-需要 Chrome 或者 Firefox 以及 油猴脚本(Tampermonkey)。可以通过[谷歌Chrome商店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)安装。
+需要 Chrome 或者 Firefox 以及 油猴脚本(Tampermonkey)。可以通过[谷歌Chrome商店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)安装，或者自行百度安装方法。其他浏览器安装了Tampermonkey应该也可以，但是这里只测试过Chrom和Firefox。
 
 在Tampermonkey的设置页面-> `Utilities`-> `Import from URL` 中添加
 ```
