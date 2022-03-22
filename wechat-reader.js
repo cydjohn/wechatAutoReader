@@ -17,9 +17,9 @@
         clientX: 150,
         clientY: 150
     });
-    // 每五分钟点击一次“下一章”按钮
+    // 每两分钟点击一次“下一章”按钮
     setInterval(function () {
         var nextPageButton = document.getElementsByClassName("readerFooter_button")[0];
         nextPageButton.dispatchEvent(clickEvent);
-    }, 300000);
+    }, 120000);
 })();
