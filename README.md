@@ -6,7 +6,11 @@
 
 需要 Chrome 或者 Firefox 以及 油猴脚本(Tampermonkey)。可以通过[谷歌Chrome商店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)安装。
 
-在Tampermonkey的设置页面-> `Utilities`-> `Import from URL` 中添加<https://github.com/cydjohn/wechatAutoReader/blob/main/wechat-reader.js>即可
+在Tampermonkey的设置页面-> `Utilities`-> `Import from URL` 中添加
+```
+https://github.com/cydjohn/wechatAutoReader/blob/main/wechat-reader.js
+```
+即可
 
 
 ## 使用
